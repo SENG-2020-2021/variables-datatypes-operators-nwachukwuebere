@@ -1,16 +1,30 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3218296&assignment_repo_type=AssignmentRepo)
-# variables-datatypes-operators
-Assignment to test students on their knowledge of variables, dataTypes and operators in Java
+class Main {
+public class main {
 
-## Assignment description
-You have been employed as a developer in a micro finance back who give loans, in which their debtors pay daily to return the loans. 
-Challenges often faced by the banks are to:
-- [ ] sum up the amount of the previous days the individual as defaulted
-- [ ] calculate how many days the debtor paid for based on the amount paid
-- [ ] calculate the amount the debtor paid for but the day was not captured in the above challenge because the amount was not up to the amount payable for day  
-- [ ] calculate the amount the debtor is left to pay
-- [ ] calculate how many days the debtor has not completely payed for
+}
+public static void main string[] args {
 
-Kindly develop a program template to solve the challenges above.
+} 
+// kindly use appreciate data type for your declaration 
 
-### Kindly note that you will be submitting your assignment on or before 27/09/2020
+// declare variable days the debtor defaulted , amount the debtor is to pay
+int defaultdays-5;
+int amounttopay-500;
+int amountpaid-600;
+
+//declare the variable of the total amount the debtor it to pay, the days of the debt
+
+int numofdayspaid;
+int amounttopay;
+int amountlefttopay;
+
+// calculate and print amount debtor is to pay
+amounttopay = *
+system.out.printin("the amount to pay is" + amounttopay);
+
+// calculated and print the days the debtor paid for 
+numofdayspaidfor = /
+system.out.printin ("the number of days paid for" + numberofdays )
+
+// calculate and print 
+}
